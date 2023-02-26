@@ -1,4 +1,4 @@
-const {nanoid} = require('nanoid');//todo: nanoid generate only digital id
+const {nanoid} = require('nanoid');
 
 
 
